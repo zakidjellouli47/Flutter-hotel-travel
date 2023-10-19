@@ -1,4 +1,4 @@
-⭐️ ⭐️ Flutter hotel travel UI⭐️ ⭐️
+⭐️ ⭐️ Flutter hotel travel UI ⭐️ ⭐️
 
 A new Flutter project.
 
